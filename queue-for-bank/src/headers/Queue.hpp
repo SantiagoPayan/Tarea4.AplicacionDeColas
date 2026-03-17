@@ -1,8 +1,8 @@
 /**
  * \file Queue.hpp
  * \brief Implementacíon de colas
- * \author Carlos Enrique Mancillas Duran
- * \author Braulio Alessandro S&aacute;nchez Berm&uacute;dez
+ * \author Santiago Payan Ibarra
+ * \author Jose maria nuñez saille
  * \date 16/03/2024
  */
 #include <iostream>
