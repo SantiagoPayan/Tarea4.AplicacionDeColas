@@ -1,8 +1,8 @@
 /**
  * \file Bank.hpp
  * \brief Implementacion de la clase Banco
- * \author Braulio Alessandro Sánchez Bermúdez
- * \author Carlos Enrique Mancillas Duran
+ * \author Santiago Payan Ibarra
+ * \author Jose maria nuñez saille
  * \date 16/03/2024
  * */
 
