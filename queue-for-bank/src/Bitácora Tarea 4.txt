@@ -1,0 +1,42 @@
+Bitácora Tarea 4
+
+Miércoles 11 de Marzo
+
+Se realizo la primer reunion para agendar el día de trabajo, así como la asignación de tareas  
+y la búsqueda de información
+
+Tiempo total: 45 minutos
+---------------------------------------------------------------------------------------------
+Viernes 13 de Marzo
+Se realizo una reunion para abordar los primeros pasos y el eje central del programa, así 
+como la asignación de los siguientes días
+
+Santiago Payan: Implementación de la plantilla cola así mismo con sus atributos, y gran parte
+del main
+
+Jose Nuñez: Implementación de la mayoría de métodos públicos
+
+Tiempo total: 6 horas
+---------------------------------------------------------------------------------------------
+
+Domingo 15 de Marzo
+Se terminaron de implementar todos los métodos a utilizar, así como la finalización de los 
+aspectos más generales del proyecto, queda pendiente la documentación y comentar el proyecto.
+
+Santiago Payan: Finalización general del proyecto y pulir algunos detalles y warnings que 
+salieron en el proceso de implementación
+
+Jose Nuñez: Finalización de los métodos, y finalización de pequeños detalles, asi como el 
+inicio de la documentación.
+
+Tiempo total: 10 horas
+---------------------------------------------------------------------------------------------
+
+Lunes 16 de Marzo
+Finalización del proyecto, así como finalizar la documentación y comentar el mismo, dejándolo listo para entregar.
+
+Santiago Payan: Termino la documentación y comentarios en el proyecto.
+
+Jose Nuñez: Terminar de pulir pequeños detalles en el proyecto
+
+Tiempo total: 2 horas
